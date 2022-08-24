@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+    "name": "Web-time calculator",
+    "description": "This extension will measure the time you spend on any websites",
+    "version": "0.1.0"
+}
